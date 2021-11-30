@@ -1,5 +1,9 @@
 # react-organogram
 
+## Note
+
+Responsive organizational chart component for React.JS
+
 > Made with create-react-library
 
 [![NPM](https://img.shields.io/npm/v/react-organogram.svg)](https://www.npmjs.com/package/react-organogram) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -11,6 +15,7 @@ npm install --save react-organogram
 ```
 
 ## Example
+>A beautiful organogram made with react-organogram
 
 ![Example Screenshot](https://user-images.githubusercontent.com/38428845/143792018-ea9b1c80-b8e3-43ed-bcd8-49d394eac57c.png)
 
@@ -92,6 +97,9 @@ const Example = () => {
 
 export default Example
 ```
+## Demo
+
+Check the demo on [CodePen](https://codepen.io/pkdadson/pen/MWEgzjw) which demonstrates various features of react-organogram.
 
 ## License
 
